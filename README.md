@@ -1,2 +1,2 @@
-**Konnect**
-Konnect with individuals.
+# Konnect
+**Konnect with individuals on the go.**
